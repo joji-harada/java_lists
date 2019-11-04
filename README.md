@@ -1,2 +1,2 @@
-# java_lists
-Recreation of ArrayList and LinkedList classes
+# Java Lists
+ Recreation of ArrayList and LinkedList classes
